@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pettoos>
+		<discript></discript>
+		<version></version>
+		<force></force>
+</pettoos>
