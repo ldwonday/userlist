@@ -3,7 +3,7 @@
   <description>Application autoUpdate</description>
   <Updater>
 	<Url>http://10.0.5.98/SoftUpdate/</Url>
-	<LastUpdateTime>2005-09-05</LastUpdateTime>
+	<LastUpdateTime>2014-01-20</LastUpdateTime>
   </Updater>
   <Application applicationId="ItemSoft">
     <EntryPoint>ItemSoft.exe</EntryPoint>
