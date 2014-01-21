@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pettoos>
-		<discript>修改了一键冲冲的诸多bug</discript>
-		<version>1.0.1.1</version>
+		<discript>修改了点击界面会假死的问题</discript>
+		<version>1.0.2.1</version>
 		<force>0</force>
 </pettoos>
