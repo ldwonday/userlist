@@ -2,18 +2,15 @@
 <AutoUpdater>
   <description>Application autoUpdate</description>
   <Updater>
-	<Url>http://10.0.5.98/SoftUpdate/</Url>
-	<LastUpdateTime>2005-09-05</LastUpdateTime>
+	<Url>https://github.com/ldwonday/userlist/blob/master/update/</Url>
+	<LastUpdateTime>2014-1-22</LastUpdateTime>
   </Updater>
   <Application applicationId="ItemSoft">
-    <EntryPoint>ItemSoft.exe</EntryPoint>
+    <EntryPoint>QQ情侣宠物辅助.exe</EntryPoint>
     <Location>.</Location>
-	<Version>1.0.0.0</Version>
+	<Version>1.0.2.1</Version>
   </Application>
   <Files>
-	   <File Ver="1.0.0.0" Name="ItemSoft.exe" />
-	   <File Ver="1.0.0.0" Name="Reports\test.txt"/>
-	   <File Ver="1.0.0.0" Name="Interop.grproLib.dll"/>
-	   <File Ver="1.0.0.0" Name="Reports\test.grf"/>
+	   <File Ver="1.0.1.0" Name="QQ情侣宠物辅助.exe" />
   </Files>
 </AutoUpdater>
