@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pettoos>
-		<discript>修改了点击界面会假死的问题</discript>
-		<version>1.0.2.1</version>
+		<discript>1.增加特权礼包和爱的签到。2.增加约会。3.增加一键示好。\r\n4.现在获取精灵经验的同时也可以获取珍惜经验了。\r\n5.自动监控开启后没有食物会自动购买食物了。</discript>
+		<version>1.0.3.0</version>
 		<force>0</force>
 </pettoos>
